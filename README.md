@@ -1,13 +1,15 @@
 # Sistema de Gestión de Torneos de eSports 
  
 ## Autor 
-Tu nombre completo 
-Tu perfil de GitHub 
+Mateo Paredes Vega
+github.com/Mateopv1
+
  
 ## Descripción del Proyecto 
  
 Link al repositorio del proyecto 
- 
+https://github.com/Mateopv1/torneo-esports-uml.git
+
 Este proyecto implementa un sistema de gestión de torneos de eSports 
 utilizando UML para el modelado y Java para la implementación. 
  
