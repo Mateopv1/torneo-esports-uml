@@ -21,8 +21,7 @@ utilizando UML para el modelado y Java para la implementación.
 ![Diagrama de clases](diagrams/clases.png) 
  
 ## Estructura del Proyecto 
- 
-"torneo-esports-uml/ ├── src/ 
+ ```torneo-esports-uml/ ├── src/ 
 │ ├── es/empresa/torneo/ 
 │ │ ├── modelo/ 
 │ │ ├── control/ 
@@ -33,7 +32,8 @@ utilizando UML para el modelado y Java para la implementación.
 │ ├── clases.png 
 ├── README.md 
 ├── .gitignore 
-├── LICENSE (opcional)" 
+├── LICENSE (opcional)
+```
  
  
 ## Instalación y Ejecución 
