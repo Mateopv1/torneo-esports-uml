@@ -4,7 +4,7 @@ import es.empresa.torneo.modelo.*;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(" Bienvenido al sistema de torneos eSports 🕹");
+        System.out.println(" Bienvenido al sistema de torneos eSports");
 
         // Crear torneo
         Torneo torneo = new Torneo("Clash Arena");
