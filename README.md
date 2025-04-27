@@ -22,7 +22,7 @@ utilizando UML para el modelado y Java para la implementación.
  
 ## Estructura del Proyecto 
  
-torneo-esports-uml/ ├── src/ 
+"torneo-esports-uml/ ├── src/ 
 │ ├── es/empresa/torneo/ 
 │ │ ├── modelo/ 
 │ │ ├── control/ 
@@ -33,7 +33,7 @@ torneo-esports-uml/ ├── src/
 │ ├── clases.png 
 ├── README.md 
 ├── .gitignore 
-├── LICENSE (opcional) 
+├── LICENSE (opcional)" 
  
  
 ## Instalación y Ejecución 
