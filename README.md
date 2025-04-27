@@ -54,4 +54,4 @@ En cuanto a la estructura y lógica del diseño, se ha seguido un enfoque de an�
 
 La estructura final del diagrama se organizó separando las clases en tres categorías principales: clases de entidad, clases de control y clase de interfaz, lo que facilita reflejar de manera ordenada y lógica el funcionamiento y la interacción de los diferentes componentes del sistema.
 ## Conclusiones  
-Sobre el aprendizaje obtenido
+Me ha parecido interesante, pero, como mencioné anteriormente, siento que no estoy completamente seguro de lo que estoy haciendo, ya que no cuento con referencias claras. Espero que, al corregirse esta actividad, se aclaren mis dudas y pueda realizar ejercicios posteriores con mayor fluidez y tranquilidad.
